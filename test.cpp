@@ -1,4 +1,6 @@
 #include <iostream>
+#include <cstdlib>
+#include <ctime>
 #include "calculator.h"
 #include <cstdlib>
 using namespace std;
