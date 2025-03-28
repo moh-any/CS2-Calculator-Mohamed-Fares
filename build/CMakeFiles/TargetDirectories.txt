@@ -1,0 +1,3 @@
+/home/mohany/Desktop/CS2-Calculator-Mohamed-Fares/build/CMakeFiles/Calculator.dir
+/home/mohany/Desktop/CS2-Calculator-Mohamed-Fares/build/CMakeFiles/edit_cache.dir
+/home/mohany/Desktop/CS2-Calculator-Mohamed-Fares/build/CMakeFiles/rebuild_cache.dir

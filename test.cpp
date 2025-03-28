@@ -1,14 +1,16 @@
 #include <iostream>
 #include "calculator.h"
-
+#include <cstdlib>
+using namespace std;
 int main() {
-    std::cout << "Addition: " << add(5, 3) << std::endl;
-    std::cout << "Subtraction: " << subtract(10, 4) << std::endl;
-    std::cout << "Multiplication: " << multiply(6, 7) << std::endl;
-    std::cout << "Division: " << divide(20, 5) << std::endl;
-    std::cout << "Factorial: " << factorial(5) << std::endl;
-    std::cout << "GCD: " << gcd(24, 36) << std::endl;
-    std::cout << "LCM: " << lcm(12, 18) << std::endl;
-    std::cout << "Random: " << randomInRange(1, 10) << std::endl;
+    srand(time(0));
+    cout << "Addition: " << add(5, 3) << endl;
+    cout << "Subtraction: " << subtract(10, 4) << endl;
+    cout << "Multiplication: " << multiply(6, 7) << endl;
+    cout << "Division: " << divide(20, 5) << endl;
+    cout << "Factorial: " << factorial(5) << endl;
+    cout << "GCD: " << gcd(24, 36) << endl;
+    cout << "LCM: " << lcm(12, 18) << endl;
+    cout << "Random: " << randomInRange(1, 10) << endl;
     return 0;
 }
