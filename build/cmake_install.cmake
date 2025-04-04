@@ -1,4 +1,4 @@
-# Install script for directory: /home/mohany/Desktop/CS2-Calculator-Mohamed-Fares
+# Install script for directory: /mnt/c/Users/Fares/Desktop/CS2-Calculator-Mohamed-Fares/CS2-Calculator-Mohamed-Fares
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/mohany/Desktop/CS2-Calculator-Mohamed-Fares/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/c/Users/Fares/Desktop/CS2-Calculator-Mohamed-Fares/CS2-Calculator-Mohamed-Fares/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

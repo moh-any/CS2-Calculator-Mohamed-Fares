@@ -1,5 +1,5 @@
-CMakeFiles/calculator_test.dir/test.cpp.o: \
- /mnt/c/Users/Fares/Desktop/CS2-Calculator-Mohamed-Fares/CS2-Calculator-Mohamed-Fares/test.cpp \
+CMakeFiles/calculator_lib.dir/calculator.cpp.o: \
+ /mnt/c/Users/Fares/Desktop/CS2-Calculator-Mohamed-Fares/CS2-Calculator-Mohamed-Fares/calculator.cpp \
  /usr/include/stdc-predef.h \
  /mnt/c/Users/Fares/Desktop/CS2-Calculator-Mohamed-Fares/CS2-Calculator-Mohamed-Fares/calculator.h \
  /usr/include/c++/13/string /usr/include/c++/13/bits/requires_hosted.h \
@@ -154,4 +154,5 @@ CMakeFiles/calculator_test.dir/test.cpp.o: \
  /usr/include/c++/13/bits/locale_facets.tcc \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
- /usr/include/c++/13/bits/istream.tcc
+ /usr/include/c++/13/bits/istream.tcc /usr/include/c++/13/sstream \
+ /usr/include/c++/13/bits/sstream.tcc /usr/include/c++/13/ctime

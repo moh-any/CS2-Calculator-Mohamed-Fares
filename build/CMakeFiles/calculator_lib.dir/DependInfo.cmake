@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Users/Fares/Desktop/CS2-Calculator-Mohamed-Fares/CS2-Calculator-Mohamed-Fares/test.cpp" "CMakeFiles/calculator_test.dir/test.cpp.o" "gcc" "CMakeFiles/calculator_test.dir/test.cpp.o.d"
+  "/mnt/c/Users/Fares/Desktop/CS2-Calculator-Mohamed-Fares/CS2-Calculator-Mohamed-Fares/calculator.cpp" "CMakeFiles/calculator_lib.dir/calculator.cpp.o" "gcc" "CMakeFiles/calculator_lib.dir/calculator.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

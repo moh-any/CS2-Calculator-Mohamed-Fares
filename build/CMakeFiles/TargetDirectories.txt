@@ -1,4 +1,4 @@
-/home/mohany/Desktop/CS2-Calculator-Mohamed-Fares/build/CMakeFiles/calculator.dir
-/home/mohany/Desktop/CS2-Calculator-Mohamed-Fares/build/CMakeFiles/calculator_test.dir
-/home/mohany/Desktop/CS2-Calculator-Mohamed-Fares/build/CMakeFiles/edit_cache.dir
-/home/mohany/Desktop/CS2-Calculator-Mohamed-Fares/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Fares/Desktop/CS2-Calculator-Mohamed-Fares/CS2-Calculator-Mohamed-Fares/build/CMakeFiles/calculator_lib.dir
+/mnt/c/Users/Fares/Desktop/CS2-Calculator-Mohamed-Fares/CS2-Calculator-Mohamed-Fares/build/CMakeFiles/calculator_test.dir
+/mnt/c/Users/Fares/Desktop/CS2-Calculator-Mohamed-Fares/CS2-Calculator-Mohamed-Fares/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Fares/Desktop/CS2-Calculator-Mohamed-Fares/CS2-Calculator-Mohamed-Fares/build/CMakeFiles/rebuild_cache.dir

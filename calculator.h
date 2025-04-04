@@ -2,17 +2,27 @@
 #define CALCULATOR_H
 
 #include <string>
+#include <queue>
+#include <stack>
 
-using namespace std;
+class calculator {
+public:
+    static int add(int a, int b);
+    static int subtract(int a, int b);
+    static int multiply(int a, int b);
+    static double divide(double a, double b);
+    static long long factorial(int n);
+    static int gcd(int a, int b);
+    static int lcm(int a, int b);
+    static int randomInRange(int min, int max);
+    static double evaluateExpression(const std::string& expression);
 
-int add(int a, int b);
-int subtract(int a, int b);
-int multiply(int a, int b);
-double divide(double a, double b);
-long long factorial(int n);
-int gcd(int a, int b);
-int lcm(int a, int b);
-int randomInRange(int min, int max);
-double evaluateExpression(const string& expression);
+private:
+    static int precedence(char op);
+    static bool isOperator(const std::string& token);
+    static bool isNumber(const std::string& token);
+    static std::queue<std::string> infixToPostfix(const std::string& expr);
+    static double evaluatePostfix(std::queue<std::string> postfix);
+};
 
-#endif 
+#endif
